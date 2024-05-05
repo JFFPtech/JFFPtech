@@ -6,4 +6,4 @@
 
 - Currenlty working on Project HRVST, a data management web app for everyday users, researches and coders!
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,aws,c,discord,py,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,c,py,discord)](https://skillicons.dev)
