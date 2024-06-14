@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JFFPtech, nice to meet you!
 - 👀 I’m interested in music, games, and technology. 
 - 🌱 I’m currently learning about AWS Cloud, APIs and Web Scraping.
-- 💞️ I’m looking to collaborate on data science and python projects.
+- 💞️ I’m looking to collaborate on Data Science and Python projects.
 - 📫 How to reach me: email and github messages, LinkedIn coming soon.
 
 - At the moment working on Project HRVST, an multi-purpose scraping tool for everyday users, researches and coders!
